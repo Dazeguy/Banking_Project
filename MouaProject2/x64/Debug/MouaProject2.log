@@ -1,0 +1,4 @@
+﻿  MouaProject2.cpp
+C:\Users\Shane\Desktop\college classes\CSC 134\week 9\MouaProject2\MouaProject2\MouaProject2.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shane\Desktop\college classes\CSC 134\week 9\MouaProject2\MouaProject2\MouaProject2.cpp(215,47): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  MouaProject2.vcxproj -> C:\Users\Shane\Desktop\college classes\CSC 134\week 9\MouaProject2\x64\Debug\MouaProject2.exe

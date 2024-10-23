@@ -1,0 +1,3 @@
+﻿  MouaProject2.cpp
+C:\Users\Shane\Desktop\college classes\CSC 134\week 9\MouaProject2\MouaProject2\MouaProject2.cpp(10,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Shane\Desktop\college classes\CSC 134\week 9\MouaProject2\MouaProject2\MouaProject2.cpp(31,5): error C3861: 'getline': identifier not found
